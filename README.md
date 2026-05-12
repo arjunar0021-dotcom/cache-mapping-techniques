@@ -1,39 +1,31 @@
-# cache-mapping-techniques
-A COA mini project demonstrating Direct Mapping, Associative Mapping, and Set Associative Cache Mapping techniques.
-# Cache Mapping Techniques
+# Cache Mapping Techniques – COA Project
 
-## Overview
-This project demonstrates different cache mapping techniques used in Computer Organization and Architecture (COA).
+## Project Overview
+This project was developed as part of the Computer Organization and Architecture (COA) course.
 
-## Topics Covered
+The project explains and compares different cache mapping techniques used in computer systems.
+
+## Topics Included
 - Direct Mapping
 - Fully Associative Mapping
 - Set Associative Mapping
+- Cache Hits and Misses
+- Performance Comparison
 
-## Features
-- Simulation of cache operations
-- Address mapping visualization
-- Hit and Miss calculation
-- Performance comparison
+## Objectives
+- Understand cache memory organization
+- Study mapping techniques
+- Analyze advantages and disadvantages of each method
 
-## Technologies Used
-- Python / C / Java (mention your language)
-- COA Concepts
+## Project Contents
+- Detailed report
+- Presentation slides
+- Diagrams and screenshots
+- Simulation/output examples
 
 ## Team Members
-- Your Name
-- Member 2
-- Member 3
+- Arjun S Murali
+- Fida S Fathima 
 
-## Learning Outcomes
-- Understanding cache memory organization
-- Comparing mapping techniques
-- Analyzing cache efficiency
-
-## Screenshots
-(Add screenshots here)
-
-## Future Improvements
-- GUI visualization
-- Advanced cache replacement algorithms
-- Real-time simulation
+## Conclusion
+This project helped us understand how cache memory improves CPU performance and how different mapping techniques affect efficiency.
